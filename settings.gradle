@@ -1,0 +1,5 @@
+rootProject.name='kotlinmvvm'
+include ':app'
+include ':mvvm'
+include ':mvp'
+include ':network'
